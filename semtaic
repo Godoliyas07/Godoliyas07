@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <style>
+        .asome {
+            margin: 0;
+            padding: 5px;
+            background-color: lightgray;
+        }
+
+        .all-browsers>h1,
+        .browser {
+            margin: 10px;
+            padding: 5px;
+            background: white;
+        }
+        .cont>h2,
+        p {
+            margin: 4px;
+            font-size: 90%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <article class="asome">
+        <h1>\khjbjj gh ui</h1>
+        <article class="browser">
+            <h2>ljfgh g ghj</h2>
+            <p>hjkgjh kjthguy jkghhu jtuu iuyihguf gfgghghjg hjg fhvhbn vghjfmvhjbnff</p>
+        </article>
+        <article class="browser">
+            <h2>hrfg yuhry rhfjh</h2>
+            <p>jukghbfv yuhjn gt yutjfchyuhjgf yujkh fuyhjh gxyuhfjh</p>
+        </article>
+        <article class="cont">
+            <h2>Microsoft Edge</h2>
+            <p>ghufugv yerugyutfyuti gyfuyugtuhjbuygthgyhgt yugtrjy gtyfuhj</p>
+        </article>
+    </article>
+
+</body>
+
+</html>
