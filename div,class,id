@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Div,id,class</title>
+</head>
+     <style>
+div {
+    background-color: rgb(240, 154, 154);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.ab{
+    background-color: brown;
+}
+.cd{
+    font-size: 50%;
+    color: red;
+}
+</style>
+<body>
+    <h1 class="ab">hfjrh  thfgierukjh u rfyuvh nyuhvf dj k</h1>
+    <h1 id="cd">yugedr yiurfcd uykj ghturfhjgkhu uifyj</h1>
+    <div>
+        <p>hruf yguhbhyu yuhb yguh byuhb </p>
+        <p>ujygrgfklhvui uv yutjgknfyuj hgtjfkn</p>
+        <p>gtjrjyjkunh ufhjk uhj yhugfj grhjf</p>
+    </div>
+</body>
+</html>
