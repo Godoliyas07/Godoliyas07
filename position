@@ -1,0 +1,59 @@
+<html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>position</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="a3"> bfbn vbfnd</h1>
+    <p class="a1">hgjhbdhs hjbhjmkh ghdjbnhg jhbjhbjhmb lhsb<p>
+    <p class="a2"> aukhgyu yughu uykj yu gfhujuyyuj ycujkh </p>
+    <p class="a4">gfhfh hjytj tyuhj tyug htuy tuyf tyug tht</p>
+    <p class="a5">hfgv hjg hjgjh ghjjjnn gvh ygjh gvhvgh nm h</p>
+</body>
+</html>
+
+# css
+
+  h1 {
+    background-color: blue;
+    position: sticky;
+    color: white;
+    position: fixed;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 30px;
+  }
+.a5 {
+    position: fixed;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+  
+  .a1{
+    background-color: blueviolet;
+    position: absolute;
+   font-family: verdana;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    margin-right: 150px;
+    margin-left: 80px;
+    margin-top: 200px;
+  }
+  .a2{
+    background-color: rgb(7, 53, 104);
+    position: static;
+    font-size: 20px;
+    color: rgb(175, 14, 127);
+    margin-right: 100px;
+    margin-left: 60px
+  }
+  .a4{
+    background-color:yellow;
+    position: relative;
+    font-family: verdana;
+    font-size: 20px;
+  }
