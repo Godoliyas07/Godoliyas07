@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>task </title>
+</head>
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  background-color: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+nav {
+  background-color: #444;
+  padding: 10px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.profile-name {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+    main {
+      display: flex;
+      padding: 20px;
+    }
+    section {
+      flex: 3;
+      padding: 20px;
+    }
+    aside {
+      flex: 1;
+      background-color: #f4f4f4;
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+<body>
+  
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+    <div class="profile">
+      <img src="OIP (3).jpg" class="profile-img">
+      <span class="profile-name">unkonwn</span>
+    </div>
+  </header>
+<main>
+  <section>
+    <h2>This is an example of an section .</h2>
+    <article>
+      <h3>Article Title</h3>
+      <p>This is an example of an article.</p>
+    </article>
+  </section>
+  <aside>
+    <h3>Links</h3>
+    <ul>
+      <li><a href="#link1">Link 1</a></li>
+      <li><a href="#link2">Link 2</a></li>
+      <li><a href="#link3">Link 3</a></li>
+    </ul>
+  </aside>
+</main>
+
+<footer>
+ <p> this  is footer </p>
+</footer>
+
+</body>
+</html>
